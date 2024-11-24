@@ -6,6 +6,9 @@ Automatically detecting stuttering events in speech recordings could assist spee
 
 In this project, the SEP-28k dataset is utilized to perform comparative analysis to assess the performance of various machine learning models in classifying the five dysfluency types namely Prolongation, Interjection, Word Repetition, Sound Repetition and Blocks.
 
+## Research Paper
+Read the full publication of this work here: https://www.sciencedirect.com/science/article/pii/S2215016124005016
+
 ## Contributions:
 
  1. Developing robust machine learning models for classifying the five classes of Stutter- Interjection, Prolongation, Blocks, Sound Repetitions and Word Repetitions.
